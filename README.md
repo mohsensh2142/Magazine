@@ -1,0 +1,2 @@
+# Magazine
+ freeCodeCamp's project.
